@@ -1,4 +1,13 @@
 ### Hi there 👋
+I'm SHanu, a finance enthusiast and a self learned trader. 
+
+#### Here is the tech-stack that I am familiar with
+
+![PowerBI](https://img.shields.io/badge/powerbi-%23777BB4.svg?style=for-the-badge&logo=PowerBI&logoColor=white) ![SAP](https://img.shields.io/badge/SAP-%23E34F26.svg?style=for-the-badge&logo=SAP&logoColor=white)  ![ARIBA](https://img.shields.io/badge/ARIBA-%23563D7C.svg?style=for-the-badge&logo=ARIBA&logoColor=white)   ![ODin](https://img.shields.io/badge/ODin-%234ea94b.svg?style=for-the-badge&logo=ODin&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%23404d59.svg?style=for-the-badge&logo=Canva&logoColor=white) ![ZOHO](https://img.shields.io/badge/ZOHO-%2300f.svg?style=for-the-badge&logo=ZOHO&logoColor=white) 
+
+Want to collaborate? Feel free to connect😊
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-tayal-98606916b/)
 
 <!--
 **Shanutayal/Shanutayal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
